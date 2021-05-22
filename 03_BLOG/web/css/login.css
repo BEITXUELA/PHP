@@ -1,0 +1,97 @@
+.loginMenu{
+    text-align: right;
+    padding: 3px;
+    padding-right: 10px;
+    background: #fafafa;
+    position: absolute;
+    right: 0;
+}
+.loginMenu ul{
+    margin: 0;
+    padding: 0;
+}
+.loginMenu ul li{
+    display: inline;
+    list-style: none;
+    position: relative;
+}
+.loginMenu ul li a{
+    text-decoration: none;
+}
+/* .logout{
+    display: none;
+} */
+.formlogin_container{
+    position: relative;
+    display: none;
+}
+#formlogin h5{
+    text-align: right;
+    cursor: pointer;
+    color: darkorange;
+}
+#formlogin{
+    position:absolute;
+    right: 10px;
+    top: 2px;
+    border: 1px #efefef solid;
+    border-radius: 5px;
+    background: #fafafa;
+    padding: 9px;
+    box-shadow: 5px 5px 5px #cdcdcd;
+}
+#formlogin h5{
+    text-align: right;
+    padding-right: 11px;
+    color: #17a2b8;
+    cursor:inherit;
+}
+#formlogin h5 a{
+    cursor: pointer;
+}
+#formlogin tr.centered{
+    text-align: center;
+    display: none;
+}
+#formlogin tr.centered td{
+    padding-bottom: 10px;
+}
+#formlogin tr th{
+    text-align: right;
+}
+#formlogin tr  th, #formlogin tr  td{
+    padding: 10px;
+    padding-bottom: 0;
+}
+#formlogin tr.aviso td, #formlogin tr.aviso th{
+    padding: 0;
+    padding-left: 10px;
+    /* padding: 0px 10px 10px 10px; */
+    color: #dc3545;
+}
+#formlogin tr.spacer{
+    border-top: 2px #cdcdcd dotted;
+    text-align: center;
+}
+#formlogin tr.empty th{
+    padding-top: 40px;
+}
+
+.mensaje_out{
+    position: absolute;
+    top: 169px;
+    text-align: center;
+    width: 100%;
+    display: none;
+}
+.mensaje{
+    display: inline-block;
+    width: 69%;
+}
+.mensaje p{
+    margin: 0;
+    text-align: right;
+}
+.mensaje p a{
+    cursor: pointer;
+}

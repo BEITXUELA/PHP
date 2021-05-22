@@ -1,0 +1,61 @@
+ul.backendMenu{
+    margin: 0;
+    padding: 0;
+    padding: 5px;
+    background: #fafafa;
+    border-bottom: 1px #efefef solid;
+    text-align: right;
+}
+ul.backendMenu li{
+    list-style: none;
+    display: inline;
+}
+ul.backendMenu a:hover{
+    text-decoration: none;
+}
+
+.mensaje_out{
+    position: absolute;
+    top: 169px;
+    text-align: center;
+    width: 100%;
+    display: none;
+}
+.mensaje{
+    display: inline-block;
+    width: 69%;
+}
+.mensaje p{
+    margin: 0;
+    text-align: right;
+}
+.mensaje p a{
+    cursor: pointer;
+}
+.content{
+    padding: 22px;
+    text-align: center;
+}
+.bloque{
+    margin: 22px;
+    padding: 22px;
+    border: 1px #efefef solid;
+    border-radius: 5px;
+    background: #f0f0f0;
+    display: inline-table;
+}
+table tr th{
+    text-align: right;
+    padding: 3px;
+    padding-right: 8px;
+}
+table tr td{
+    padding: 3px;
+    text-align: left;
+}
+table tr td input.peque{
+    width: 46px;
+}
+table tr td input.mediano{
+    width: 60px;
+}
