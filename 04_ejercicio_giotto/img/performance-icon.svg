@@ -1,0 +1,28 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g filter="url(#filter0_d)">
+<circle cx="32.0001" cy="32.2928" r="28" transform="rotate(165 32.0001 32.2928)" fill="#EDFFF4"/>
+<circle cx="32.0001" cy="32.2928" r="27" transform="rotate(165 32.0001 32.2928)" stroke="white" stroke-width="2"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.9813 22.2726C15.0191 25.7923 13.2972 30.2082 13.0351 34.0013C12.9971 34.5523 12.5523 35 12 35C11.4477 35 10.9973 34.5524 11.0309 34.0011C11.2925 29.7162 13.2052 24.8416 16.4512 20.9848C19.9692 16.8048 25.1227 13.745 31.5398 14.0008C43.7892 14.4889 51.4231 25.2161 51.9686 34.0016C52.0029 34.5528 51.5523 35 51 35C50.4477 35 50.0032 34.5531 49.9649 34.0021C49.4157 26.0948 42.4553 16.4374 31.4602 15.9992C25.7873 15.7731 21.1908 18.4593 17.9813 22.2726Z" fill="#4ED382"/>
+<path d="M35.9524 25.0364L29.0738 33.782C29.0443 33.8194 29.0179 33.8581 28.9944 33.8996C28.2958 35.1314 27.302 37.5473 29.2267 38.6586C31.1839 39.7886 32.9515 37.7175 33.5148 36.4278L37.6671 26.0253C38.0952 24.9529 36.6662 24.1288 35.9524 25.0364Z" stroke="#4ED382" stroke-width="2"/>
+<rect x="10.9509" y="35.446" width="2" height="4.04966" rx="1" transform="rotate(-90 10.9509 35.446)" fill="#4ED382"/>
+<rect x="14.0464" y="25.2974" width="2" height="4.04966" rx="1" transform="rotate(-61.5134 14.0464 25.2974)" fill="#4ED382"/>
+<rect x="20.9785" y="17.4036" width="2" height="4.04966" rx="1" transform="rotate(-34.29 20.9785 17.4036)" fill="#4ED382"/>
+<rect x="31.0032" y="14.2505" width="2" height="4.04966" rx="1" transform="rotate(0.0902819 31.0032 14.2505)" fill="#4ED382"/>
+</g>
+<defs>
+<filter id="filter0_d" x="-6.29272" y="-6" width="76.5857" height="76.5857" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>
