@@ -1,0 +1,8 @@
+Pasar actions según contenido a classes
+
+ejemplos:
+SiteController - controlador q abre páginas
+AuthController - controlodar de autorización
+
+BlogController
+TiendaController
