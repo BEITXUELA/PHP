@@ -1,0 +1,15 @@
+bd ident
+
+tabla - articulos
+campos - id/tema/contenido/keywords
+id - primary autoincrement
+tema - varchar 255
+contenido - text
+keywords - text -> json array
+
+POO - clase Articulos
+
+Menu index
+blog -> listado de articulos
+
+Nivel 2 - con CRUD

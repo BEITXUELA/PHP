@@ -1,0 +1,38 @@
+ul.adminMenu{
+    margin: 0;
+    padding: 0;
+    padding: 5px;
+    background: #fafafa;
+    border-bottom: 1px #efefef solid;
+    text-align: right;
+}
+ul.adminMenu li{
+    list-style: none;
+    display: inline;
+}
+ul.adminMenu a:hover{
+    text-decoration: none;
+}
+
+.mensaje_out{
+    position: absolute;
+    top: 169px;
+    text-align: center;
+    width: 100%;
+    display: none;
+}
+.mensaje{
+    display: inline-block;
+    width: 69%;
+}
+.mensaje p{
+    margin: 0;
+    text-align: right;
+}
+.mensaje p a{
+    cursor: pointer;
+}
+
+.content{
+    padding: 22px;
+}
