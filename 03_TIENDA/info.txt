@@ -1,0 +1,17 @@
+bd ident
+tabla - productos
+campos:
+id - primary autoincrement
+nombre - varchar 255
+categoria - varchar 255
+descripcion - text
+precio - decimal/float 
+stock - int
+
+POO - clase Producto
+
+Menu index
+tienda -> listado de productos
+
+Nivel 2 - con CRUD
+
